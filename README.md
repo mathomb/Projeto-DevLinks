@@ -18,7 +18,7 @@ Programa  exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolo
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".Github/preview.jpg" width="100%">
 </p>
 
 <br>
